@@ -4,7 +4,7 @@
 👨‍💻 Author
 Student: Zohaib Zafar
 Course: Introduction to Applied Artificial Intelligence
-Semester: BS (CS)
+DEP: BS (CS)
 
 ## 🎯 Project Overview
 End-to-end machine learning solution to predict customer churn in telecommunications industry.
